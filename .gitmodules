@@ -1,0 +1,3 @@
+[submodule "wlan"]
+	path = wlan
+	url = https://github.com/nashc-dev/android_hardware_mediatek.git
